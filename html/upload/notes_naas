@@ -1,0 +1,9 @@
+----to give 2 ip on a same lan card
+
+>>ifconfig br0:1 192.168.10.102(ip which you want to give)
+
+-----virtual networking
+
+>>route add -net 0.0.0.0 gw 192.168.40.254(ip of gateway of your network) 
+
+gw stands for gateway
