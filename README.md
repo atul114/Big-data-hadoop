@@ -17,3 +17,4 @@ The project has basically 3 parts -
 
 ## After a successful login you have the three options as described above 
 
+![screenshot from 2018-07-14 18-43-41](https://user-images.githubusercontent.com/20671151/42725472-7f1227e8-87a1-11e8-9727-10619dbf06c8.png)
