@@ -10,3 +10,7 @@ The project has basically 3 parts -
 
 ->We created our cluster using DOCKER.
 
+# Screenshots of my project
+## First login 
+
+![screenshot from 2018-07-14 18-43-37](https://user-images.githubusercontent.com/20671151/42725439-059591d4-87a1-11e8-9078-f41e58ba47a2.png)
