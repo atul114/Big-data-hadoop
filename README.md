@@ -25,3 +25,18 @@ The project has basically 3 parts -
 
 ## MAP REDUCE FEATURES IMPLEMENTED
 
+![screenshot from 2018-07-14 18-45-51](https://user-images.githubusercontent.com/20671151/42725511-3493c004-87a2-11e8-9b35-3e5f09c3e8c2.png)
+
+## HDFS Services(in AWS)
+
+![screenshot from 2018-07-14 18-43-55](https://user-images.githubusercontent.com/20671151/42725524-82587d16-87a2-11e8-962f-b8354e54215c.png)
+
+## Other Screenshots
+
+![screenshot from 2018-07-14 18-45-59](https://user-images.githubusercontent.com/20671151/42725528-a19df7f0-87a2-11e8-8c3e-c9260e863115.png)
+
+![screenshot from 2018-07-14 18-46-06](https://user-images.githubusercontent.com/20671151/42725529-a44d419a-87a2-11e8-818a-db299a75c37d.png)
+
+![screenshot from 2018-07-14 18-44-18](https://user-images.githubusercontent.com/20671151/42725532-ab8fb85c-87a2-11e8-834f-c6a2dda82e4f.png)
+
+
