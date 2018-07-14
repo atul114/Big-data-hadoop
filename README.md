@@ -23,3 +23,5 @@ The project has basically 3 parts -
 
 ![screenshot from 2018-07-14 18-43-46](https://user-images.githubusercontent.com/20671151/42725489-e1cdb460-87a1-11e8-8f86-e5ab49996a84.png)
 
+## MAP REDUCE FEATURES IMPLEMENTED
+
