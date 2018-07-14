@@ -14,3 +14,6 @@ The project has basically 3 parts -
 ## First login 
 
 ![screenshot from 2018-07-14 18-43-37](https://user-images.githubusercontent.com/20671151/42725439-059591d4-87a1-11e8-9078-f41e58ba47a2.png)
+
+## After a successful login you have the three options as described above 
+
